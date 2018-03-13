@@ -26,7 +26,7 @@ apis:
   tags: Languages
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/languages/master/_listings/youtube/i18nlanguages-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/languages/master/_listings/youtube/i18nlanguages-parameters.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
