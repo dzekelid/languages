@@ -12,9 +12,9 @@ tags:
 - Stack Network
 - Stack
 - Google APIs
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/languages/master/_listings/youtube/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Youtube
@@ -26,7 +26,7 @@ apis:
   tags: Languages
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/languages/master/_listings/youtube/i18nlanguages-parameters.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/i18nlanguages-get.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
