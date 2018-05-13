@@ -27,17 +27,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/i18nlanguages-parameters.md
-- name: Youtube Get Languages
-  description: Returns a list of application languages that the YouTube website supports.
+- name: Youtube Parameters Languages
+  description: Parameters i18nlanguages
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
   humanURL: https://www.youtube.com/
   baseURL: https://www.googleapis.com//youtube/v1
   tags: Languages
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/i18nlanguages-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/i18nlanguages-parameters.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/i18nlanguages-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/i18nlanguages-parameters-postman.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
