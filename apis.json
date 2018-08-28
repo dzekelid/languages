@@ -1,0 +1,755 @@
+{
+	"name": "Streadata.io API Gallery - Languages",
+	"description": "This is a repository of languages APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/languages.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://languages.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "GitHub",
+			"x-api-slug": "github",
+			"description": "GitHub brings together the worlds largest community of developers to discover, share, and build better software. From open source projects to private team repositories, were your all-in-one platform for collaborative development.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png",
+			"humanURL": "https://github.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/github/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twitter",
+			"x-api-slug": "twitter",
+			"description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twitter-logo.png",
+			"humanURL": "https://twitter.com/",
+			"baseURL": "https://api.twitter.com//1.1",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/twitter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wolfram|Alpha",
+			"x-api-slug": "wolframalpha",
+			"description": "Compute answers using Wolframs breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/278-wolfram|alpha.jpg",
+			"humanURL": "http://wolframalpha.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/wolframalpha/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "myGengo Human Translation",
+			"x-api-slug": "mygengo-human-translation",
+			"description": "People-powered translation at scale. Gengo provides fast, affordable and quality translations by native speakers located worldwide.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/442-mygengo-human-translation.jpg",
+			"humanURL": "http://mygengo.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/mygengo-human-translation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "crowdin",
+			"x-api-slug": "crowdin",
+			"description": "Crowdin is a localization project management platfom and translation tool for developers and website owners. We make it easy to work with content being translated using our collaboration platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/567-crowdin.jpg",
+			"humanURL": "https://crowdin.net/",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/crowdin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Factolex",
+			"x-api-slug": "factolex",
+			"description": "Factolex is a community-powered fact lexicon going straight to the point.Users can build their own lexicon by selecting the facts most relevant to them, and, extend the knowledge by adding new terms and facts. The Factolex API follows a simple REST approach. Parameters for methods are set through URL parameters.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/factolex-logo.gif",
+			"humanURL": "http://factolex.com/",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/factolex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Get Localization",
+			"x-api-slug": "get-localization",
+			"description": "Get Localization provides professional translation, translation management system and crowdsourcing services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/599-get-localization.jpg",
+			"humanURL": "http://www.getlocalization.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/get-localization/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Spellchecker.net",
+			"x-api-slug": "spellchecker-net",
+			"description": "Multi-language spell checking mechanism integrated into your website or a web application. No more manual checking of your texts for spelling and grammar mistakes! WebSpellChecker will find the mistakes and display the correction options.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/939-spellchecker-net.jpg",
+			"humanURL": "http://webspellchecker.net",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/spellchecker-net/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Straker Translations",
+			"x-api-slug": "straker-translations",
+			"description": "Straker Translations is revolutionizing the translation industry by offering fast, efficient and cost effective translations with their unique pay-per-hour translation model, it enables clients to significantly reduce their ongoing translation costs as well as simplifying the translation process.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/straker-translation.png",
+			"humanURL": "http://straker.ie",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/straker-translations/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Merriam-Webster Dictionary",
+			"x-api-slug": "merriamwebster-dictionary",
+			"description": "The Merriam-Webster Dictionary API gives developers access to a comprehensive resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary. Make your applications better by integrating our authoritative definitions, etymologies, audio pronunciations, synonyms and antonyms, and more. Our robust API empowers developers to enhance word games and create educational, language learning, and other word-related applications for the digital environment. We look forward to seeing all of the new, innovative products powered by Merriam-Websters trusted references.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dev-center-logo-500x100.png",
+			"humanURL": "http://dictionaryapi.com/",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/merriamwebster-dictionary/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sprawk",
+			"x-api-slug": "sprawk",
+			"description": "Sprawk helps you translate your website your way, and within your budget - reaching more customers and increasing sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1479-sprawk.jpg",
+			"humanURL": "https://www.sprawk.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/sprawk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pro Writing Aid",
+			"x-api-slug": "pro-writing-aid",
+			"description": "Your personal writing coach. A grammar checker, style editor, and writing mentor in one package. The best writing depends on much more than just correct grammar. You need an editing tool that also highlights style issues and compares your writing to th...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1585-pro-writing-aid.jpg",
+			"humanURL": "http://prowritingaid.com/en/App/API",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/pro-writing-aid/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LanguageTool",
+			"x-api-slug": "languagetool",
+			"description": "LanguageTool is a proofreading software for English, German, Spanish, Russian, and more than 20 other languages.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1606-languagetool.jpg",
+			"humanURL": "http://www.languagetool.org/http-api/",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/languagetool/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Swagger",
+			"x-api-slug": "swagger",
+			"description": "Swagger aides in development across the entire API lifecycle, from design and documentation, to test and deployment. Try it today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1684-swagger.jpg",
+			"humanURL": "http://swagger.io/",
+			"baseURL": "https://generator.swagger.io//api",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/swagger/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rev",
+			"x-api-slug": "rev",
+			"description": "Online audio transcription, video captions and document translation services. For immigration, business, legal, academic and personal needs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1846-rev.jpg",
+			"humanURL": "http://www.rev.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/rev/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Hatebase",
+			"x-api-slug": "hatebase",
+			"description": "Worlds largest and most authoritative structured repository of hate speech",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1869-hatebase.jpg",
+			"humanURL": "http://www.hatebase.org",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/hatebase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "KantanMT.com",
+			"x-api-slug": "kantanmt-com",
+			"description": "KantanMT is a cloud-based statistical machine translation platform. We provide high-quality MT services using the power and flexibility of the cloud.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2045-kantanmt-com.jpg",
+			"humanURL": "http://www.kantanmt.com/",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/kantanmt-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "YouTube",
+			"x-api-slug": "youtube",
+			"description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg",
+			"humanURL": "https://www.youtube.com/",
+			"baseURL": "https://www.googleapis.com//youtube/v1",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Datumbox",
+			"x-api-slug": "datumbox",
+			"description": "Build quickly and easily Intelligent Applications by using the power of Machine Learning!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg",
+			"humanURL": "http://datumbox.com",
+			"baseURL": "https://api.datumbox.com/1.0/",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/datumbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NamSor",
+			"x-api-slug": "namsor",
+			"description": "NamSor&trade; Applied Onomastics is a European designer of name recognition software. Our mission is to help make sense of the Big Data and understand international flows of money, ideas and people. Our specialized data mining software recognizes the linguistic or cultural origin of personal names in any alphabet / language, with fine grain and high accuracy. Names are meaningful : we use sociolinguistics to extract their semantics and deliver actionable intelligence.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NamSor-Logo.png",
+			"humanURL": "http://namesorts.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/namsor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MotaWord",
+			"x-api-slug": "motaword",
+			"description": "MotaWord is the world&rsquo;s fastest, lowest cost, cloud-based, collaborative business translation platform.MotaWord combines the efforts of talented human translators through the use of a cloud based translation platform. Our translators are able to login simultaneously into projects that fit their language combination and provide translation service collaboratively - while also seeing the whole content for contextual purposes. This ability to simultaneously utilize multiple translators makes MotaWord exceptionally fast and highly accurate.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/motaword-logo.png",
+			"humanURL": "http://www.motaword.com",
+			"baseURL": "https://api.motaword.com//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/motaword/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Language Detection API",
+			"x-api-slug": "language-detection-api",
+			"description": "This is a language detection webservice. It accepts text and produces result with detected language code and score.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/language-detection-api.png",
+			"humanURL": "https://detectlanguage.com/",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/language-detection-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HERE",
+			"x-api-slug": "here",
+			"description": "HERE Technologies enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20089-here-maps.jpg",
+			"humanURL": "https://developer.here.com",
+			"baseURL": "https://weather.cit.api.here.com//weather/1.0",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/here/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Doubleclick",
+			"x-api-slug": "google-doubleclick",
+			"description": "The Ad Exchange Buyer REST API allows your Real-Time Bidding application to access and update account information and to submit creatives. The API also allows an application (whether it does static bidding or real-time bidding) to discover direct deals that sellers make available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png",
+			"humanURL": "https://www.doubleclickbygoogle.com/",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/google-doubleclick/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Translate",
+			"x-api-slug": "google-translate",
+			"description": "Cloud Translation API provides a simple programmatic interface for translating an arbitrary string into any supported language. Translation API is highly responsive, so websites and applications can integrate with Translation API for fast, dynamic translation of source text from the source language to a target language (e.g., French to English). Language detection is also available In cases where the source language is unknown. The underlying technology pushes the boundary of Machine Translation and is updated constantly to seamlessly improve translations and introduce new languages and language pairs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-translate-hello-lead-2x.png",
+			"humanURL": "https://translate.google.com/",
+			"baseURL": "://www.googleapis.com//language/translate",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/google-translate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Code.gov",
+			"x-api-slug": "code-gov",
+			"description": "Code.gov leverages the power of code sharing and collaboration to help the US Government cut down on duplicative software development and save millions of taxpayer dollars for the American people.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-gov-logo.jpg",
+			"humanURL": "https://code.gov/",
+			"baseURL": "https://api.code.gov//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/code-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SAP",
+			"x-api-slug": "sap",
+			"description": "Get software and technology solutions from SAP, the leader in business applications.  Run simple with the best in cloud, analytics, mobile and IT solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28252-www-sap-com.jpg",
+			"humanURL": "https://www.sap.com/index.html",
+			"baseURL": "https://sandbox.api.sap.com//translationhub/api/v1",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/sap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Entertainment Express",
+			"x-api-slug": "entertainment-express",
+			"description": "Internet Video Archive (IVA) is a leading entertainment data company providing metadata, images and trailers/clips, for movie and TV content. With the launch of its award-winning Entertainment Express APIs, clients can easily access everything they need to create engaging content discovery experiences. By using Entertainment Express, clients can also connect to other services like movie showtimes and ticketing, content recommendations, content availability and TV channel line-ups. With over a million titles, episodes and over 150,000 videos available, IVA makes it easy for developers to integrate all the services they need at a very affordable price.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png",
+			"humanURL": "https://www.internetvideoarchive.com/",
+			"baseURL": "https://ee.iva-api.com//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/entertainment-express/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Jumpseller",
+			"x-api-slug": "jumpseller",
+			"description": "We founded Jumpseller.com in 2009 in Europe  we called it Vendder back then  and released our first version of the Jumpseller product in September 2010. After releasing the product we quickly grew to thousands of customers. In November 2010, we recei...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg",
+			"humanURL": "http://jumpseller.com",
+			"baseURL": "https://api.jumpseller.com//v1",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/jumpseller/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Oxford Dictionaries",
+			"x-api-slug": "oxford-dictionaries",
+			"description": "If you&rsquo;re looking to enhance your app or website with dictionary data, don&rsquo;t compromise on quality. The Oxford Dictionaries API offers easy and intuitive access to Oxfords dictionary content, which is trusted around the world. Here at Oxford Dictionaries, home of the OED, we love words. That&rsquo;s why we have experienced lexicographers tracking the living language, delving deep into our corpora and monitoring a wide range of media in order to understand how words are being used and how language is evolving. This research is used by our editors to write and edit dictionary entries and translations, meaning we&rsquo;re able to offer up-to-date, accurate, and reliable lexical content in multiple languages.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oxford-dictionaries-api.png",
+			"humanURL": "https://developer.oxforddictionaries.com/",
+			"baseURL": "https://od-api-demo.oxforddictionaries.com:443//api/v1",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/oxford-dictionaries/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The TVDB",
+			"x-api-slug": "the-tvdb",
+			"description": "TheTVDB.com is a community driven database of television shows. All content and images on the site have been contributed by the sites users; the site uses moderated editing to maintain its own standards. The database schema and website are open source under the GNU General Public License.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/thetvdb.jpeg",
+			"humanURL": "http://thetvdb.com",
+			"baseURL": "https://api-dev.thetvdb.com//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/the-tvdb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Geneea",
+			"x-api-slug": "geneea",
+			"description": "Geneea helps you analyze large amounts of text. Whether it is Facebook, blogs, e-mails or legal documents in your archives. Within seconds.     Dont change your business processes. Simply plug in the output of The Interpretor, our powerful software p...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/geneea-logo.png",
+			"humanURL": "https://www.geneea.com",
+			"baseURL": "https://api.geneea.com//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/geneea/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HHS Media Services",
+			"x-api-slug": "hhs-media-services",
+			"description": "Use this API platform to create sites with text and multimedia content for syndication. CDC, FDA, HHS, and NIH have built syndication sites using this platform, which is available in Java and .NET.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hhs-media-services.png",
+			"humanURL": "https://api.digitalmedia.hhs.gov/",
+			"baseURL": "https://api.digitalmedia.hhs.gov//api/v2",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/hhs-media-services/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bookeo",
+			"x-api-slug": "bookeo",
+			"description": "Bookeo provides a leading online booking and scheduling system for tours, classes, and appointments, to help you save money and time. Click to learn more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28769-www-bookeo-com.jpg",
+			"humanURL": "https://www.bookeo.com",
+			"baseURL": "https://api.bookeo.com//v2",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/bookeo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RingCentral",
+			"x-api-slug": "ringcentral",
+			"description": "RingCentral, Inc. (NYSE: RNG) is a global provider of cloud enterprise unified communications and collaboration solutions. More flexible and cost-effective than legacy on-premise systems, RingCentral empowers today&rsquo;s mobile and distributed workforces to be connected anywhere and on any device through voice, video, team messaging, collaboration, SMS, conferencing, online meetings, contact center, and fax. RingCentral provides an open platform that integrates with today&rsquo;s leading business apps while giving customers the flexibility to customize their own workflows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg",
+			"humanURL": "http://www.ringcentral.com",
+			"baseURL": "https://platform.ringcentral.com//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/ringcentral/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kentico Cloud",
+			"x-api-slug": "kentico-cloud",
+			"description": "Kentico Cloud is the #1 CMS that enables digital teams to collaborate quickly to create engaging personalized experiences across any device. Free 30-day trial!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg",
+			"humanURL": "https://kenticocloud.com/",
+			"baseURL": "https://deliver.kenticocloud.com//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/kentico-cloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Languages",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Languages",
+	"include": [
+		{
+			"name": "GitHub",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/github/apis.yaml"
+		},
+		{
+			"name": "Twitter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/twitter/apis.yaml"
+		},
+		{
+			"name": "Wolfram|Alpha",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/wolframalpha/apis.yaml"
+		},
+		{
+			"name": "myGengo Human Translation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/mygengo-human-translation/apis.yaml"
+		},
+		{
+			"name": "crowdin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/crowdin/apis.yaml"
+		},
+		{
+			"name": "Factolex",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/factolex/apis.yaml"
+		},
+		{
+			"name": "Get Localization",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/get-localization/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "Spellchecker.net",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/spellchecker-net/apis.yaml"
+		},
+		{
+			"name": "Straker Translations",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/straker-translations/apis.yaml"
+		},
+		{
+			"name": "Merriam-Webster Dictionary",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/merriamwebster-dictionary/apis.yaml"
+		},
+		{
+			"name": "Sprawk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/sprawk/apis.yaml"
+		},
+		{
+			"name": "Pro Writing Aid",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/pro-writing-aid/apis.yaml"
+		},
+		{
+			"name": "LanguageTool",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/languagetool/apis.yaml"
+		},
+		{
+			"name": "Swagger",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/swagger/apis.yaml"
+		},
+		{
+			"name": "Rev",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/rev/apis.yaml"
+		},
+		{
+			"name": "Hatebase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/hatebase/apis.yaml"
+		},
+		{
+			"name": "KantanMT.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/kantanmt-com/apis.yaml"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/youtube/apis.yaml"
+		},
+		{
+			"name": "Datumbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/datumbox/apis.yaml"
+		},
+		{
+			"name": "NamSor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/namsor/apis.yaml"
+		},
+		{
+			"name": "MotaWord",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/motaword/apis.yaml"
+		},
+		{
+			"name": "Language Detection API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/language-detection-api/apis.yaml"
+		},
+		{
+			"name": "HERE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/here/apis.yaml"
+		},
+		{
+			"name": "Google Doubleclick",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/google-doubleclick/apis.yaml"
+		},
+		{
+			"name": "Google Translate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/google-translate/apis.yaml"
+		},
+		{
+			"name": "Code.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/code-gov/apis.yaml"
+		},
+		{
+			"name": "SAP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/sap/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Entertainment Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/entertainment-express/apis.yaml"
+		},
+		{
+			"name": "Jumpseller",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/jumpseller/apis.yaml"
+		},
+		{
+			"name": "Oxford Dictionaries",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/oxford-dictionaries/apis.yaml"
+		},
+		{
+			"name": "The TVDB",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/the-tvdb/apis.yaml"
+		},
+		{
+			"name": "Geneea",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/geneea/apis.yaml"
+		},
+		{
+			"name": "HHS Media Services",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/hhs-media-services/apis.yaml"
+		},
+		{
+			"name": "Bookeo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/bookeo/apis.yaml"
+		},
+		{
+			"name": "RingCentral",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/ringcentral/apis.yaml"
+		},
+		{
+			"name": "Kentico Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/kentico-cloud/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/languages/master/_listings/plentymarkets/apis.yaml"
+		}
+	]
+}
